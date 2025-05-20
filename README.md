@@ -96,7 +96,7 @@ I isolated the device and ran a malware scan. The scan produced no results. Howe
 | T1078.003    | Valid Accounts: Local Accounts     | Privilege Escalation |
 
 ---
-Analyst Contact
+## Analyst Contact
 
 Name: Britt Parks
 
